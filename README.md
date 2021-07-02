@@ -12,7 +12,7 @@
     * 2.2\. [SDN Architecture](#SDN-Architecture) 
     * 2.3\. [NFV](#NFV) 
     * 2.4\. [NFV Architecture](#NFV-Architecture) 
-    * 2.5\. [NFV relationship to SDN](#NFV-relationship to SDN) 
+    * 2.5\. [NFV relationship to SDN](#NFV-relationship-to-SDN) 
 * 3\. [ POSSIBILITY TO USE AI IN NETWORKING AND COMMUNICATION](#POSSIBILITY-TO-USE-AI-IN-NETWORKING-AND-COMMUNICATION)
     * 3.1\. [AI in SDN](#AI-in-SDN) 
       * 3.1.1\. [Neural Networks in SDN](#Neural-Networks-in-SDN) 
