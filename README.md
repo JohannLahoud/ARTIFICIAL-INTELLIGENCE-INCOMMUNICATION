@@ -27,7 +27,7 @@
 Artificial intelligence (A.I.) is a wide-ranging branch of computer science whose goal is to automate activities that presently require human intelligence. Recent successes involve improvements in automatic text generation, facial and speech recognition, detecting motion gestures, drug discovery and quantum supremacy. 
 AI-powered solutions are used by dozens of companies and implemented in different fields, changing a lot of industries and reshaping the landscape of health, learning, daily living. IT is a  revolutionary technology which the communication industry is exploring, in order to introduce it to the communication field, and to improve the user experience and networks efficiency by providing new services. The FINE framework is a contender in the steps to find a better solution for the network systems, which can be illustrated by the example of an SDN/NFV.
 
-# 1.ARTIFICIAL INTELLIGENCE
+# 1 ARTIFICIAL INTELLIGENCE
 Artificial intelligence (AI), the ability of a digital computer or Computer-controlled robot to perform tasks commonly associated with intelligent beings. Most AI projects that you hear about today from chess-playing computers to self-driving cars rely heavily on deep learning and natural language processing. Using AI technologies, computers can be trained to accomplish specific tasks by processing large amounts of data and recognizing patterns in the data.
 
 ## 1.1 Introduction
@@ -110,5 +110,5 @@ Network functions virtualization (NFV) is a way to virtualize network services, 
  It is a classification technique based on Bayes’ theorem with an assumption of independence between predictors. 
  The algorithm first creates a frequency table (similar to prior probability) of all classes and then creates a likelihood table. Then, finally, it calculates the posterior probability.
 
-# 4. Conclusion
+# 4 Conclusion
 In  this article,  we  provided  a  state of the art  overview  of  research  efforts  made  for  applying  artificial  intelligence  techniques in SDN paradigm, as well as an  adoption  of  various  artificial intelligence  techniques to solve a wide range of networking problems and address new challenges introduced by the SDN paradigm. Artificial intelligence plays an important role in the network industry, we have seen how artificial intelligence can be included in NFV and SDN for a better future of communication. However, more efforts towards studying the AI approaches under adversarial settings need to be take into consideration for a better communication.
