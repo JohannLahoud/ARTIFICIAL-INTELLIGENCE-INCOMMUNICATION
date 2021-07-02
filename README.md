@@ -22,10 +22,16 @@
       * 3.2.1\. [IP traffic classification in NFV](#IP-traffic-classification-in-NFV) 
 * 4\. [Conclusion](#4-Conclusion) 
 
+
+---
+
 ## Abstract
 
 Artificial intelligence (A.I.) is a wide-ranging branch of computer science whose goal is to automate activities that presently require human intelligence. Recent successes involve improvements in automatic text generation, facial and speech recognition, detecting motion gestures, drug discovery and quantum supremacy. 
 AI-powered solutions are used by dozens of companies and implemented in different fields, changing a lot of industries and reshaping the landscape of health, learning, daily living. IT is a  revolutionary technology which the communication industry is exploring, in order to introduce it to the communication field, and to improve the user experience and networks efficiency by providing new services. The FINE framework is a contender in the steps to find a better solution for the network systems, which can be illustrated by the example of an SDN/NFV.
+
+
+---
 
 # 1 ARTIFICIAL INTELLIGENCE
 Artificial intelligence (AI), the ability of a digital computer or Computer-controlled robot to perform tasks commonly associated with intelligent beings. Most AI projects that you hear about today from chess-playing computers to self-driving cars rely heavily on deep learning and natural language processing. Using AI technologies, computers can be trained to accomplish specific tasks by processing large amounts of data and recognizing patterns in the data.
@@ -46,6 +52,9 @@ AI is already used in multiple disciplines and industries. These devices are cap
 
 Due to the increasing number of users and to the expansion of the network in size, 
 the structure complexity to build and maintain a network has increased too. To collaborate and manage the nodes, we find a new technology, a multi-agent collaboration, of distributed AI into the network management.
+
+
+---
 
 # 2 SDN/NFV
 
@@ -72,6 +81,9 @@ The network function virtualization consists of three components. First, Managem
 ## NFV relationship to SDN
 
 NFV and SDN have similarities but they are not dependent on each other. It is possible to build a virtualized network function (VNF) as a standalone entity using existing networking. However, there are inherent benefits in leveraging SDN concepts to implement and manage an NFV infrastructure, particularly when looking at the management and orchestration of VNFs. An NFV infrastructure needs management system, automation and network orchestration  them into storage and network configuration needed to bring VFN to operate. these functionalities center that takes requests associated with VNF and transformare done by the SDN concepts.
+
+
+---
 
 # 3 POSSIBILITY TO USE AI IN NETWORKING AND COMMUNICATION
 
@@ -109,6 +121,9 @@ Network functions virtualization (NFV) is a way to virtualize network services, 
 
  It is a classification technique based on Bayes’ theorem with an assumption of independence between predictors. 
  The algorithm first creates a frequency table (similar to prior probability) of all classes and then creates a likelihood table. Then, finally, it calculates the posterior probability.
+
+
+---
 
 # 4 Conclusion
 In  this article,  we  provided  a  state of the art  overview  of  research  efforts  made  for  applying  artificial  intelligence  techniques in SDN paradigm, as well as an  adoption  of  various  artificial intelligence  techniques to solve a wide range of networking problems and address new challenges introduced by the SDN paradigm. Artificial intelligence plays an important role in the network industry, we have seen how artificial intelligence can be included in NFV and SDN for a better future of communication. However, more efforts towards studying the AI approaches under adversarial settings need to be take into consideration for a better communication.
