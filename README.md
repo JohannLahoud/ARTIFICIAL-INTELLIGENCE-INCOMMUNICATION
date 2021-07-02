@@ -1,7 +1,7 @@
 # ARTIFICIAL INTELLIGENCE IN COMMUNICATION
 
 ## Contents
-* 1\. [ARTIFICIAL INTELLIGENCE](#ARTIFICIAL)
+* 1\. [ARTIFICIAL INTELLIGENCE](#ARTIFICIAL-INTELLIGENCE)
     * 1.1\. Introduction
     * 1.2\. Advantages of AI
     * 1.3\. Ability to learn
