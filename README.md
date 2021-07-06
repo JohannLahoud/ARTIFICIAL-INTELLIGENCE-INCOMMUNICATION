@@ -11,7 +11,7 @@ AI-powered solutions are used by dozens of companies and implemented in differen
 ---
 
 ## Contents
-> * [Artificial Intelligence](#Artificial-Intelligence)
+> * [ARTIFICIAL INTELLIGENCE IN COMMUNICATION](#Artificial-Intelligence-in-communication)
 >   * [Abstract](#Abstract)
 > * 1\. [ARTIFICIAL INTELLIGENCE](#1-ARTIFICIAL-INTELLIGENCE)
 >    * 1.1\. [Introduction](#Introduction)
