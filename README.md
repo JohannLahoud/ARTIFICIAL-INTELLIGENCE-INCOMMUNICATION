@@ -28,7 +28,8 @@ AI-powered solutions are used by dozens of companies and implemented in differen
 >      * 3.1.3\. [Neural Network for Load Balancing](#Neural-Network-for-Load-Balancing) 
 >    * 3.2\. [AI in NFV](#AI-in-NFV) 
 >      * 3.2.1\. [IP traffic classification in NFV](#IP-traffic-classification-in-NFV) 
-> * 4\. [Conclusion](#4-Conclusion) 
+> * 4\. [Conclusion](#4-Conclusion)
+> * [Contribution](#contribution)
 
 
 ---
@@ -127,3 +128,8 @@ Network functions virtualization (NFV) is a way to virtualize network services, 
 
 # 4 Conclusion
 In  this article,  we  provided  a  state of the art  overview  of  research  efforts  made  for  applying  artificial  intelligence  techniques in SDN paradigm, as well as an  adoption  of  various  artificial intelligence  techniques to solve a wide range of networking problems and address new challenges introduced by the SDN paradigm. Artificial intelligence plays an important role in the network industry, we have seen how artificial intelligence can be included in NFV and SDN for a better future of communication. However, more efforts towards studying the AI approaches under adversarial settings need to be take into consideration for a better communication.
+
+---
+---
+## Contribution
+- Johann Lahoud <johann.lahoud@epita.fr>
